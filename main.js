@@ -26,7 +26,7 @@ age.reverse();
 
 var i = 0;
 
-function update();
+function update()
 {
     i++;
 
